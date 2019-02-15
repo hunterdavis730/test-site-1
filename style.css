@@ -1,0 +1,11 @@
+body {
+    background-image: url(images/wavy-dots.png);
+}
+
+.card-body {
+    background-image: url(images/tic-tac-toe.png);
+}
+
+#home_button {
+    color: green;
+}
